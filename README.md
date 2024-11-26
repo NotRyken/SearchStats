@@ -42,4 +42,3 @@ SearchStats uses code from gbl's [StatsSearch](https://github.com/gbl/StatsSearc
 [![Issues](https://img.shields.io/github/issues/TerminalMC/SearchStats?logo=github&label=GitHub%20Issues)](https://github.com/TerminalMC/SearchStats/issues)
 
 [![License](https://img.shields.io/github/license/TerminalMC/SearchStats?label=License&logo=github&logoColor=white)](https://github.com/TerminalMC/SearchStats/blob/HEAD/LICENSE.txt)
-
